@@ -9,4 +9,9 @@ fun main(args: Array<String>){
     println("k++ = ${k++}")
     println("k = $k")
 
+    if (i > j){
+        println("Yes")
+    }else
+        println("no")
+
 }
